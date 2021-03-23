@@ -1,0 +1,69 @@
+
+.cuadro1 {
+    height: 46.4px;
+    width: 46.4px;
+    display: inline-block;
+    background-color: greenyellow;
+}
+
+.cuadro2 {
+    height: 46.4px;
+    width: 46.4px;
+    display: inline-block;
+    background-color: green;
+}
+
+.cuadro3 {
+    height: 46.4px;
+    width: 46.4px;
+    display: inline-block;
+    background-color: rgb(30, 109, 236);
+}
+
+.rectangu1{
+    height: 100px;
+    width: 450px;
+    display: inline-block;
+    background-color: rgb(0, 117, 128);
+}
+
+.rectangu2{
+    height: 100px;
+    width: 450px;
+    display: inline-block;
+    background-color: rgb(0, 23, 128);
+}
+
+.rectangu3{
+    height: 100px;
+    width: 350px;
+    display: inline-block;
+    position: relative;
+    margin-left: 100px;
+    background-color: rgb(0, 117, 128);
+}
+
+.rectangu4{
+    height: 100px;
+    width: 350px;
+    display: inline-block;
+    position: relative;
+    background-color: rgb(0, 23, 128);
+}
+
+.cuadro4{
+    background-color: orangered;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    bottom: 0;
+}
+
+.cuadro5{
+    background-color: orangered;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

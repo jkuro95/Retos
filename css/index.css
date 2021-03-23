@@ -1,0 +1,21 @@
+header{
+    background-color: cadetblue;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 18px;
+    color: inherit;
+}
+
+nav li{
+    display: inline-block;
+    padding: 20px 5px;
+    margin-right: 20px;
+    color: black;
+}
+
+nav li:hover{
+    background-color:darkblue;
+    color:darkorange;
+}
